@@ -25,11 +25,11 @@ Person
 
 
 .person{
-	background-color: #FFFFFF;
 	width: 515px;
 	margin: 5px auto 50px;
-	box-shadow: 0px 0px 2px #AAAAAA;
 	padding: 30px 50px 40px;
+	background-color: #FFFFFF;
+	box-shadow: 0px 0px 2px #AAAAAA;
 }
 
 
@@ -49,8 +49,8 @@ Main
 }
 
 .main h1{
-	text-align: center;
 	margin-top: 8px;
+	text-align: center;
 	font-size: 23px;
 }
 
